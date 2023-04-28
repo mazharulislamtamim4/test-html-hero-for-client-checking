@@ -90,6 +90,9 @@ button:hover{
   background:  #CDC7F4;
 }
 
+span.arrow-text {
+    vertical-align: middle;
+}
 
 .content p {
   width: 80%;
