@@ -132,6 +132,9 @@ line-height: 30px;
   font-size: 45px;
   line-height: 50px;
 }
+  main{
+  padding-top: 90px;
+  }
 .content p {
 
 font-family: 'DM Sans';
