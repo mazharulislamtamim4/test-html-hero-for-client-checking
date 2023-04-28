@@ -58,19 +58,19 @@ text-fill-color: transparent;
 .f-btn{
   background:#2862FA ;
   border-radius: 50px;
-  padding: 24px 40px;
+  padding: 20px 40px;
 }
 
 .btn-2{
   background: #261F48 !important;
   border-radius: 50px;
-  padding: 24px 28px;
+  padding: 20px 28px;
 }
 
 .nav-btn{
   background: #261F48 !important;
   border-radius: 50px;
-  padding: 24px 60px;
+  padding: 23px 60px;
 }
 
 
@@ -103,11 +103,11 @@ line-height: 30px;
 
 .collapse.show {
   position: absolute !important;
-  background: black !important;
+  background:  #161132 !important;
   width: 100%;
   height: 100vh;
   left: 0;
-  top: 80px;
+  top: 0;
   z-index: 99;
 }
 
